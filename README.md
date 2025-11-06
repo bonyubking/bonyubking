@@ -4,7 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonyubking&show_icons=true&theme=radical)
 
 ### 🏆 백준 프로필
-![BaekJoon Profile]([![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piusku2)(https://solved.ac/piusku2/))
+![Solved.ac Profile]((http://mazassumnida.wtf/api/v2/generate_badge?boj=piusku2)(https://solved.ac/piusku2/))
 
 ### 🛠️ 주요 기술 스택
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)

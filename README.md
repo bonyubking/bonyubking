@@ -3,8 +3,8 @@
 ### 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonyubking&show_icons=true&theme=radical)
 
-### 🌈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bonyubking&theme=radical)
+### 🏆 백준 프로필
+![BaekJoon Profile](https://boj-username.vercel.app/api?user=piusku2)
 
 ### 🛠️ 주요 기술 스택
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)

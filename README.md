@@ -1,5 +1,11 @@
 # 안녕하세요 , 백엔드 개발자 구본엽입니다
 
+## 👋 About Me
+
+| 🎂 Birth | 🎓 Education | 💻 Bootcamp |
+|:--:|:--:|:--:|
+| **1995.10.24** | **한양대학교**<br>컴퓨터소프트웨어학부 | **멋쟁이 사자처럼**<br>Java 백엔드 부트캠프 |
+
 ### 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonyubking&show_icons=true&theme=radical)
 
@@ -49,7 +55,7 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat&logo=graphql&logoColor=white)
 
 
-### 📂 주요 프로젝트
+### 📂 Projects
 - [잡담 : 구독형 SNS 시스템](https://github.com/LionPay-LikeLion) 
 - [MYCE : 박람회 예약 중개 플랫폼](https://github.com/LIKE-LION-MYCE)  
 

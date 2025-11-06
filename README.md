@@ -55,7 +55,11 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat&logo=graphql&logoColor=white)
 
 
-### 📂 Projects
-- [잡담 : 구독형 SNS 시스템](https://github.com/LionPay-LikeLion) 
-- [MYCE : 박람회 예약 중개 플랫폼](https://github.com/LIKE-LION-MYCE)  
+## 📂 Projects
 
+- [잡담 : 구독형 SNS 시스템](https://github.com/LionPay-LikeLion)
+  [<img src="https://img.icons8.com/color/48/000000/google-drive--v2.png" width="22"/>](https://drive.google.com/drive/u/0/folders/1-IeAQqqtZsf7Oekci4rJkS7lAMfa7F6e)
+
+- [MYCE : 박람회 예약 중개 플랫폼](https://github.com/LIKE-LION-MYCE)
+  [<img src="https://img.icons8.com/color/48/000000/google-drive--v2.png" width="22"/>](https://drive.google.com/drive/u/0/folders/1a2C6jNxRtmj3SbBxNwqh42yRyTW_Hk9S)
+  

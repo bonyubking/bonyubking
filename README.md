@@ -6,9 +6,6 @@
 |:--:|:--:|:--:|
 | **1995.10.24** | **한양대학교**<br>컴퓨터소프트웨어학부 | **멋쟁이 사자처럼**<br>Java 백엔드 부트캠프 |
 
-### 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonyubking&show_icons=true&theme=radical)
-
 ### 🏆 백준 프로필
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piusku2)](https://solved.ac/piusku2)
 
@@ -53,6 +50,17 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=flat&logo=databricks&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat&logo=graphql&logoColor=white)
+
+
+---
+
+### ☁️ Infrastructure & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 ## 📂 Projects
